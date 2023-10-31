@@ -10,14 +10,14 @@
 
 | Proje | Evo     | Açıklama                |
 | :-------- | :------- | :------------------------- |
-|  [C00](https://github.com/Lushable/42Piscine/tree/main/)        | `Success` | ex00 - ex07 |
-|  [C01](https://github.com/Lushable/42Piscine/tree/main/C01)        | `Success` | ex00 - ex08 |
-|  [C02](https://github.com/Lushable/42Piscine/tree/main/C02)        | `Success` |ex00 - ex11 |
-|  [C03](https://github.com/Lushable/42Piscine/tree/main/C03)        | `Success` | ex00 - ex04 |
-|  [C04](https://github.com/Lushable/42Piscine/tree/main/C04)        | `Success` |ex00 - ex04 |
-|  [C05](https://github.com/Lushable/42Piscine/tree/main/C05)        | `Success` | ex00 - ex07 |
-|  [C06](https://github.com/Lushable/42Piscine/tree/main/C06)        | `Success` | ex00 - ex03 |
-|  [C07](https://github.com/Lushable/42Piscine/tree/main/c07)        | `Success` | ex00 - ex03 |
+|  [C00](https://github.com/Lushable/42Piscine-2023/tree/main/C00)        | `Success` | ex00 - ex07 |
+|  [C01](https://github.com/Lushable/42Piscine-2023/tree/main/C01)        | `Success` | ex00 - ex08 |
+|  [C02](https://github.com/Lushable/42Piscine-2023/tree/main/C02)        | `Success` |ex00 - ex11 |
+|  [C03](https://github.com/Lushable/42Piscine-2023/tree/main/C03)        | `Success` | ex00 - ex04 |
+|  [C04](https://github.com/Lushable/42Piscine-2023/tree/main/C04)        | `Success` |ex00 - ex04 |
+|  [C05](https://github.com/Lushable/42Piscine-2023/tree/main/C05)        | `Success` | ex00 - ex07 |
+|  [C06](https://github.com/Lushable/42Piscine-2023/tree/main/C06)        | `Success` | ex00 - ex03 |
+|  [C07](https://github.com/Lushable/42Piscine-2023/tree/main/c07)        | `Success` | ex00 - ex03 |
 
 
 
